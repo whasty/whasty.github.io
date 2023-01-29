@@ -14,3 +14,7 @@ body  {
   border-bottom: 1px solid green;
   background-color: rgba(0,0,0,0.1)
 }
+
+.line-height {
+  line-height: 1px;
+}
