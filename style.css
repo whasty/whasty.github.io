@@ -10,8 +10,8 @@ body  {
 .exp-header {
   text-align: center;
   text-transform: uppercase;
-  border-top: 1px solid green;
-  border-bottom: 1px solid green;
+  border-top: 1px solid gold;
+  border-bottom: 1px solid gold;
   background-color: rgba(0,0,0,0.1)
 }
 
@@ -19,6 +19,18 @@ body  {
   line-height: 1px;
 }
 
-.link {
-  color: yellow;
+a:link {
+  color: gold;
+}
+
+a:visited {
+  color: gold;
+}
+
+a:hover {
+  color: hotpink;
+}
+
+a:active {
+  color: gold;
 }
