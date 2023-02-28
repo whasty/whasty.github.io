@@ -19,6 +19,12 @@ body  {
   line-height: 1px;
 }
 
+img {
+  width: 100%;
+  height: auto;
+  align: center
+}
+
 a:link {
   color: gold;
 }
